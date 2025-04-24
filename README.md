@@ -1,2 +1,2 @@
 # test
-practice purpose
+this is my first class
